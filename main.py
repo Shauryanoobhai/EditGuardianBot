@@ -37,9 +37,9 @@ def check_edit(update: Update, context: CallbackContext):
         
         user_mention = f"{edited_message.from_user.first_name}"
 
+            
             # Send a message notifying about the deletion
             bot.send_message(chat_id=chat_id, text=f"{user_mention} just edited a message🤡. I deleted his edited message🙂‍↕️🤡.")
-
 def main():
     updater = Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
