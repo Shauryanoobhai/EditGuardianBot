@@ -5,7 +5,7 @@ src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://te.legra.ph/file/e35cb8730c0e3f789e6ef.png" width="3384" height="74">
 <p align="center">
-  <img src="https://te.legra.ph/file/f295da183dc59203bf314.jpg">
+  <img src=https://te.legra.ph/file/5a9550c10d934ff11f7b8.jpg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
