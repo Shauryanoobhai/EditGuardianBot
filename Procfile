@@ -1,1 +1,1 @@
-worker: python levi.py
+worker: python main.py
