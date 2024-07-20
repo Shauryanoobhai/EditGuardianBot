@@ -22,24 +22,20 @@ def start(update: Update, context: CallbackContext):
 
 def check_edit(update: Update, context: CallbackContext):
     bot: Bot = context.bot
+    edited_message = update.edited_message
+    if not edited_message:
+        return  # Ignore if no edited message
 
-   
-    if update.edited_message:
-        edited_message = update.edited_message
+    chat_id = edited_message.chat_id
+    message_id = edited_message.message_id
+    user_id = edited_message.from_user.id
+    user_mention = f"{edited_message.from_user.first_name}"
+    if user_id == OWNER_ID:
+        return  # Ignore if owner edits the message
+    # Send a message notifying about the deletion
+    bot.send_message(chat_id=chat_id, text=f"{user_mention} just edited a message🤡. I deleted his edited message🙂‍↕️🤡.")
+    bot.delete_message(chat_id=chat_id, message_id=message_id)
 
-        
-        chat_id = edited_message.chat_id
-        message_id = edited_message.message_id
-
-        
-        user_id = edited_message.from_user.id
-
-        
-        user_mention = f"{edited_message.from_user.first_name}"
-
-            
-            # Send a message notifying about the deletion
-            bot.send_message(chat_id=chat_id, text=f"{user_mention} just edited a message🤡. I deleted his edited message🙂‍↕️🤡.")
 def main():
     updater = Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
@@ -53,5 +49,5 @@ def main():
     updater.start_polling()
     updater.idle()
 
-if __name__ == '__main__':
+if __name__ == 'main':
     main()
