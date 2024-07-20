@@ -7,17 +7,17 @@ def start(update: Update, context: CallbackContext):
     mention = f"{user.first_name}"
     keyboard = [
         [
-            InlineKeyboardButton("Source Code", url=f""),
-            InlineKeyboardButton("Support Chat", url=f"")
+            InlineKeyboardButton("Source Code", url=f"https://github.com/Shauryanoobhai/EditGuardianBot"),
+            InlineKeyboardButton("Support Chat", url=f"https://t.me/Ahjin_Sprt")
         ],
         [
             InlineKeyboardButton("Add me to group", url=f"https://t.me/LiShiyaBot?startgroup=true")
         ],
         [
-            InlineKeyboardButton("Owner Profile", url=f"https://t.me/{OWNER_ID}"),
+            InlineKeyboardButton("Owner", url=f"https://t.me/LeviAckerman1709"),
         ]
     ]
-    context.bot.send_photo(chat_id=update.effective_chat.id, photo="")
+    context.bot.send_photo(chat_id=update.effective_chat.id, photo="https://te.legra.ph/file/5a9550c10d934ff11f7b8.jpg")
     update.message.reply_text(f'Hello! {mention}! I am Edit Guardian bot I delete Edited message', reply_markup=InlineKeyboardMarkup(keyboard))
 
 def check_edit(update: Update, context: CallbackContext):
