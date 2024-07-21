@@ -15,3 +15,10 @@ src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb
 
 𝗡𝗢𝗧𝗘 :- 𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗔𝗡𝗗 𝗗𝗢𝗡'𝗧 𝗙𝗢𝗥𝗚𝗘𝗧 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗦𝗧𝗔𝗥𝗦 😌 
 
+𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗢𝗥𝗦 :- 
+
+- [𝗟𝗘𝗩𝗜](https://t.me/LeviAckerman1709) 𝐗 <a href="https://github.com/Shauryanoobhai" alt="shauryanoobhai"> <img src="https://img.shields.io/badge/shaurya-90302f?logo=github" /></a>
+
+- [𝗘𝗥𝗘𝗡](https://t.me/Itachi_bruhhh) 𝐗 <a href="https://github.com/SquirtleRivals09" alt="SquirtleRivals09"> <img src="https://img.shields.io/badge/Eren-90302f?logo=github" /></a>
+
+- [𝗠𝗜𝗞𝗘𝗬](https://t.me/Hotoke_Fr) 𝐗 <a href="https://github.com/Obanai2M" alt="Obanai2M"> <img src="https://img.shields.io/badge/Mikey-90302f?logo=github" /></a>
