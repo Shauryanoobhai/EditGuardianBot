@@ -1,2 +1,2 @@
 TOKEN = '' # Get Your Telegram Bot Token from @BotFather
-OWNER_ID = '1737646273' # Add Here your telegram id 
+OWNER_ID = '' # Add Here your telegram id 
