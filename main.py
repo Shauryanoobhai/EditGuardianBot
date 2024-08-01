@@ -17,11 +17,9 @@ def start(update: Update, context: CallbackContext):
             InlineKeyboardButton("Owner", url=f"https://t.me/LeviAckerman1709"),
         ]
     ]
-  
-#Update start according to you guys 
 
-context.bot.send_photo(chat_id=update.effective_chat.id, photo="https://te.legra.ph/file/5a9550c10d934ff11f7b8.jpg")
-    update.message.reply_text(f'Hello! {mention}! I am Edit Guardian bot I delete Edited message', reply_markup=InlineKeyboardMarkup(keyboard))
+    context.bot.send_photo(chat_id=update.effective_chat.id, photo="https://te.legra.ph/file/5a9550c10d934ff11f7b8.jpg")
+    update.message.reply_text(f"Hello! {mention}! I am Edit Guardian bot I delete Edited message", reply_markup=InlineKeyboardMarkup(keyboard))
 
 def check_edit(update: Update, context: CallbackContext):
     bot: Bot = context.bot
