@@ -1,20 +1,20 @@
 from telegram import Update, Bot, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
-from config import TOKEN, OWNER_ID
+from config import 8081003333:AAEUgbL5JOJP4r294D4kUtrBU5fqTwegmjk, 1008989961
 
 def start(update: Update, context: CallbackContext):
     user = update.effective_user
     mention = f"{user.first_name}"
     keyboard = [
         [
-            InlineKeyboardButton("Source Code", url=f"https://github.com/Shauryanoobhai/EditGuardianBot"),
-            InlineKeyboardButton("Support Chat", url=f"https://t.me/Ahjin_Sprt")
+            InlineKeyboardButton("Support Channel", url=f"https://t.me/anime_india_divi"),
+            InlineKeyboardButton("Support Chat", url=f"https://t.me/Anime_india_divine")
         ],
         [
-            InlineKeyboardButton("Add me to group", url=f"https://t.me/LiShiyaBot?startgroup=true")
+            InlineKeyboardButton("Add me to group", url=f"https://t.me/GuardianDivine_bot?startgroup=true")
         ],
         [
-            InlineKeyboardButton("Owner", url=f"https://t.me/LeviAckerman1709"),
+            InlineKeyboardButton("Owner", url=f"https://t.me/UR_NEO"),
         ]
     ]
 
