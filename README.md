@@ -1,24 +1,54 @@
+<p align="center">
+  <img src="https://files.catbox.moe/u23zkg.jpg" width="3384" height="350">
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img
-src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://te.legra.ph/file/5a9550c10d934ff11f7b8.jpg" width="3384" height="350">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+Edit+💗+Guardian+」+──;An+Advanced+Edit+Guardian+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+Edit+💗+Guardian+」+──;Shifted+and+Upgraded+to+Lishiya!;&width=600&height=180">
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
-𝗡𝗢𝗧𝗘 :- 𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗔𝗡𝗗 𝗗𝗢𝗡'𝗧 𝗙𝗢𝗥𝗚𝗘𝗧 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗦𝗧𝗔𝗥𝗦 😌 
+# 🚀 Edit Guardian Has Evolved!
 
-𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗢𝗥𝗦 :- 
+**Edit 💗 Guardian** has officially **shifted** to its upgraded form —  
+Meet **[Lishiya](https://github.com/TheErenYeagerx/Lishiya)** 💫  
 
-- [𝗟𝗘𝗩𝗜](https://t.me/LeviAckerman1709) 𝐗 <a href="https://github.com/Shauryanoobhai" alt="shauryanoobhai"> <img src="https://img.shields.io/badge/shaurya-90302f?logo=github" /></a>
+A complete rewrite built for **speed**, **stability**, and **modern performance**.  
+Now running on **Python 3.11**, **async MongoDB**, and a **refined modular system** for maximum efficiency.  
 
-- [𝗘𝗥𝗘𝗡](https://t.me/Itachi_bruhhh) 𝐗 <a href="https://github.com/SquirtleRivals09" alt="SquirtleRivals09"> <img src="https://img.shields.io/badge/Eren-90302f?logo=github" /></a>
+---
 
-- [𝗠𝗜𝗞𝗘𝗬](https://t.me/Hotoke_Fr) 𝐗 <a href="https://github.com/Obanai2M" alt="Obanai2M"> <img src="https://img.shields.io/badge/Mikey-90302f?logo=github" /></a>
+## 🛠️ GitHub Stats & Badges
+
+<p align="center">
+  <a href="https://github.com/TheErenYeagerx/Lishiya/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/TheErenYeagerx/Lishiya?color=DC143C&style=for-the-badge" alt="GitHub Stars">
+  </a>
+
+  <a href="https://github.com/TheErenYeagerx/Lishiya/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/TheErenYeagerx/Lishiya?color=DC143C&style=for-the-badge" alt="GitHub Forks">
+  </a>
+
+  <a href="https://github.com/TheErenYeagerx/Lishiya/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/TheErenYeagerx/Lishiya?color=DC143C&style=for-the-badge" alt="License">
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
+  </a>
+</p>
+
+📝 **Note:**  
+Fork the repo before using it, and don’t forget to star the new version if you like the upgrade! ⭐  
+👉 [Visit Lishiya Repository](https://github.com/TheErenYeagerx/Lishiya)
+
+---
+
+💫 **Special Thanks & Credits** 💫 
+
+ 
+ [![Levi](https://img.shields.io/badge/Levi-90302f?logo=github)](https://github.com/Shauryanoobhai) 
+
+ [![Eren](https://img.shields.io/badge/Eren-90302f?logo=github)](https://github.com/TheErenYeagerx) 
+
+ [![Mikey](https://img.shields.io/badge/Mikey-90302f?logo=github)](https://github.com/Adibariya)
